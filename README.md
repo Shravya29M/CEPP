@@ -65,8 +65,7 @@ The techniques demonstrate minimal alteration to image quality while providing s
 
 4.    Evaluate the performance:
      ```bash
-
-python model_evaluation.py
+      python model_evaluation.py
 
 
 
