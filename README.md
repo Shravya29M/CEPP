@@ -1,4 +1,6 @@
 Secure Data Embedding: Caesar, AES, and Multi-Layer Steganographic Methods
+
+
 This repository contains the implementation of secure data embedding techniques using Center-Embedded Pixel Positioning (CEPP). The methods incorporate Caesar Cipher, AES Encryption, and Multi-Layer Steganography to enhance the security and integrity of hidden information within digital images.
 
 Overview
