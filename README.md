@@ -53,3 +53,23 @@ The techniques demonstrate minimal alteration to image quality while providing s
    ```bash
    git clone https://github.com/yourusername/secure-data-embedding.git
    cd secure-data-embedding
+
+2. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
+3. Run individual scripts for each method:
+   ```bash
+   python aes.py
+   python caesar.py
+   python multi_layer_steganography.py
+
+4.    Evaluate the performance:
+     ```bash
+
+python model_evaluation.py
+
+
+
+
+
+
